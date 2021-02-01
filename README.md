@@ -9,6 +9,8 @@ It was never optimized to display a lot of geometry.
 It is able to import WKT
 It is able to import classic DOOM .WAD files (it is not a map editor by any means!)
 
+![alt text](https://github.com/HypahCode/Blueprint/blob/Master/Screenshot.jpg?raw=true)
+
 ### How do I get set up? ###
 
 *Windows*
