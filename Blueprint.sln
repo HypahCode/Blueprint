@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blueprint", "Blueprint\Blueprint.csproj", "{AC4DCBC0-F38F-4CD7-AF92-BEC63B8DECE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrigonometryLib", "TrigonometryLib\TrigonometryLib.csproj", "{D71548B3-B066-4D90-96A8-27C62A70EC49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueprintFlow", "BlueprintFlow\BlueprintFlow.csproj", "{5A79E255-A631-4CE8-A703-8BAD0F23AD89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueprintAddon", "BlueprintAddon\BlueprintAddon.csproj", "{B48ED556-B5C4-4135-ADB5-A7C519392A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC4DCBC0-F38F-4CD7-AF92-BEC63B8DECE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4DCBC0-F38F-4CD7-AF92-BEC63B8DECE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4DCBC0-F38F-4CD7-AF92-BEC63B8DECE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4DCBC0-F38F-4CD7-AF92-BEC63B8DECE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D71548B3-B066-4D90-96A8-27C62A70EC49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D71548B3-B066-4D90-96A8-27C62A70EC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D71548B3-B066-4D90-96A8-27C62A70EC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D71548B3-B066-4D90-96A8-27C62A70EC49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A79E255-A631-4CE8-A703-8BAD0F23AD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A79E255-A631-4CE8-A703-8BAD0F23AD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A79E255-A631-4CE8-A703-8BAD0F23AD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A79E255-A631-4CE8-A703-8BAD0F23AD89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48ED556-B5C4-4135-ADB5-A7C519392A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48ED556-B5C4-4135-ADB5-A7C519392A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48ED556-B5C4-4135-ADB5-A7C519392A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48ED556-B5C4-4135-ADB5-A7C519392A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
